@@ -2,7 +2,7 @@ import ArgumentParser
 import CoreML
 import Foundation
 
-import Models
+import STModels
 import Generation
 
 @available(iOS 16.2, macOS 13.1, *)
